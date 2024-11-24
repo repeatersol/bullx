@@ -8,8 +8,7 @@ Welcome to **BullX**, the **original trading bot** for **lightning-fast transact
 
 ---
 
-## ![BullX Logo](https://i.imgur.com/zZT0cvj.jpeg) 
-**Why Choose BullX?**
+## **Why Choose BullX?**
 
 1. **Faster Transactions** ⚡  
    Execute trades at blazing speeds, giving you the edge in volatile markets.
